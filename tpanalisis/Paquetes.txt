@@ -1,0 +1,55 @@
+Experiencia_salvaje
+1                       
+Aventura                
+5300                   
+2                       
+Freyjord Targon          
+
+Paisajes_Inolvidables
+2                       
+Paisaje              
+0,25             
+3                       
+Piltover Shurima Ixtal                
+
+Manjares_sin_par
+3                        
+Degustacion               
+Noxus                        
+3                       
+Zaun Demacia Noxus                 
+
+Sueño_inolvidable
+1                       
+Paisaje                
+6000                    
+4                       
+Piltover Ixtal Jonia Shurima       
+
+Exquisiteces_de_Runaterra
+2                       
+Degustacion                    
+0,50             
+2                    
+Bandle Noxus            
+
+Viaje_extremo
+3                        
+Aventura                
+Targon                      
+2                       
+Aguas_Turbias Targon
+
+Destinos_incomparables
+3
+Paisaje 
+Jonia
+3
+Piltover Ixtal Jonia
+
+Platillos_exoticos
+1
+Degustacion
+3500
+2
+Zaun Bandle

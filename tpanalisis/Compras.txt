@@ -1,0 +1,155 @@
+Nombre: Chogat
+Presupuesto final: 4200
+Tiempo resultante: 0.0 hs
+
+Compras:
+Platillos_exoticos
+-Costo:3500
+-Tiempo:72.0
+
+Total a pagar: $3500.0
+Tiempo a invertir: 72.0 hs
+-------------------------------------------------------
+
+Nombre: Gragas
+Presupuesto final: 3100
+Tiempo resultante: 0.0 hs
+
+Compras:
+Freyjord
+-Costo:3600
+-Tiempo:48.0
+
+Total a pagar: $3600.0
+Tiempo a invertir: 48.0 hs
+-------------------------------------------------------
+
+Nombre: Nasus
+Presupuesto final: 5300
+Tiempo resultante: 8.0 hs
+
+Compras:
+Bandle
+-Costo:3700
+-Tiempo:48.0
+
+Total a pagar: $3700.0
+Tiempo a invertir: 48.0 hs
+-------------------------------------------------------
+
+Nombre: Taric
+Presupuesto final: 1700
+Tiempo resultante: 8.0 hs
+
+Compras:
+Platillos_exoticos
+-Costo:3500
+-Tiempo:72.0
+
+Total a pagar: $3500.0
+Tiempo a invertir: 72.0 hs
+-------------------------------------------------------
+
+Nombre: Leona
+Presupuesto final: 2450
+Tiempo resultante: 3.0 hs
+
+Compras:
+Sueño_inolvidable
+-Costo:6000
+-Tiempo:112.0
+
+Total a pagar: $6000.0
+Tiempo a invertir: 112.0 hs
+-------------------------------------------------------
+
+Nombre: Ezreal
+Presupuesto final: 100
+Tiempo resultante: 1.0 hs
+
+Compras:
+Jonia
+-Costo:5000
+-Tiempo:23.0
+
+Zaun
+-Costo:900
+-Tiempo:24.0
+
+Total a pagar: $5900.0
+Tiempo a invertir: 47.0 hs
+-------------------------------------------------------
+
+Nombre: Ivern
+Presupuesto final: 1100
+Tiempo resultante: 1.0 hs
+
+Compras:
+Jonia
+-Costo:5000
+-Tiempo:23.0
+
+Zaun
+-Costo:900
+-Tiempo:24.0
+
+Total a pagar: $5900.0
+Tiempo a invertir: 47.0 hs
+-------------------------------------------------------
+
+Nombre: Braum
+Presupuesto final: 0
+Tiempo resultante: 3.0 hs
+
+Compras:
+Jonia
+-Costo:5000
+-Tiempo:23.0
+
+Aguas_Turbias
+-Costo:500
+-Tiempo:24.0
+
+Total a pagar: $5500.0
+Tiempo a invertir: 47.0 hs
+-------------------------------------------------------
+
+Nombre: Zoe
+Presupuesto final: 6000
+Tiempo resultante: 2.0 hs
+
+Compras:
+Viaje_extremo
+-Costo:3600
+-Tiempo:98.0
+
+Total a pagar: $3600.0
+Tiempo a invertir: 98.0 hs
+-------------------------------------------------------
+
+Nombre: Milio
+Presupuesto final: 2500
+Tiempo resultante: 4.0 hs
+
+Compras:
+Experiencia_salvaje
+-Costo:5300
+-Tiempo:85.0
+
+Total a pagar: $5300.0
+Tiempo a invertir: 85.0 hs
+-------------------------------------------------------
+
+Nombre: Annie
+Presupuesto final: 3000
+Tiempo resultante: 0.0 hs
+
+Compras:
+Aguas_Turbias
+-Costo:500
+-Tiempo:24.0
+
+Total a pagar: $500.0
+Tiempo a invertir: 24.0 hs
+-------------------------------------------------------
+
